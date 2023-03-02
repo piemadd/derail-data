@@ -19,6 +19,8 @@
   "homepage": "https://github.com/piemadd/derail-update#readme",
   "dependencies": {
     "aws-sdk": "^2.1326.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.0.3",
     "node-fetch": "^2.6.7"
   }
 }
